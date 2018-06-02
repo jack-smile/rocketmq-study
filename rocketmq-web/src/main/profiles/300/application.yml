@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: rocketmq-study
+
+server:
+  port: 8888
