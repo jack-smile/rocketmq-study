@@ -3,7 +3,7 @@
 
     <contextName>rocketmq-study</contextName>
 
-	<substitutionProperty name="logbase" value="../rocketmq-study-logs/sysout.out.log" />
+	<substitutionProperty name="logbase" value="./rocketmq-study-logs/sysout.out.log" />
 
     <!-- 彩色日志 -->
     <!-- 彩色日志依赖的渲染类 -->
