@@ -25,5 +25,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
         <project.version>1.0-SNAPSHOT</project.version>
+        <rocketmq.version>4.2.0</rocketmq.version>
     </properties>
 </project>
